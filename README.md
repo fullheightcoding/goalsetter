@@ -3,7 +3,9 @@ Set and achieve SMART goals.
 
 Scope:
 
-Create and set SMART goals using a client in the form of a web browser, Android, or IOS.
+Create and set SMART goals using a client in the form of a web browser, Android, or IOS.  Work to be done:
+- Create a new project for each layer below.
+- Create and update each layer as required.
 
 
 Description:
